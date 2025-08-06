@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [ #aplicativos instalados por default
     'hello',
+    'tasks',
     'newyear',
     'django.contrib.admin',
     'django.contrib.auth',
